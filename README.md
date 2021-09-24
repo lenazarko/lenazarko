@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @lenazarko
+- 👀 I'm interested in studying about javascript, dev and programming;
+- 🌱 I am currently learning with a web course;
+- 📫 How to reach me @leticianazarko on instagram
